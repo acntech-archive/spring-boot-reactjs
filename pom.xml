@@ -8,9 +8,9 @@
 	</parent>
 
 	<groupId>com.accenture.example</groupId>
-	<artifactId>spirng-boot-reactjs</artifactId>
+	<artifactId>spring-boot-reactjs</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<properties>
 		<main.basedir>${basedir}/../..</main.basedir>
